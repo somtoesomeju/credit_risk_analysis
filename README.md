@@ -15,23 +15,28 @@ In the SMOTE oversampling method, the balanced accuracy score was 62.3%.
 - high risk recall is at 70%, while low risk recall is at 58%
 
 # Naive Random Oversampling
+![naive](https://github.com/somtoesomeju/credit_risk_analysis/blob/main/Resources/Naive_random_oversampling.png)
 - Balanced accuracy score was 64.56%
 - high risk precision is at 1%, low risk precision 100%
 - high risk recall is at 61%, while low risk recall is at 68%.
 
 # Undersampling (Cluster centroid method)
+![under](https://github.com/somtoesomeju/credit_risk_analysis/blob/main/Resources/Undersampling.png)
 - Balanced accuracy score was 62.3%
 - high risk recall is at 61%, while low risk recall is at 45%.
 
 # SMOTEEN Oversampling
+![smoteenn](https://github.com/somtoesomeju/credit_risk_analysis/blob/main/Resources/SMOTEENN.png)
 - Balanced accuracy score was 52.9%
 - High risk recall was 58% while low risk recall was at 70%.
 
 # Balanced Random Forest Oversampling
+![balanced](https://github.com/somtoesomeju/credit_risk_analysis/blob/main/Resources/Balanced_Random_forest.png)
 - Balanced accuracy score was 74.4%.
 - High risk recall was 60% and low risk recall was 89%
 
 # Easy Ensemble Oversampling
+![easy](https://github.com/somtoesomeju/credit_risk_analysis/blob/main/Resources/Easy_ensemble_classifier.png)
 - Balanced accuracy score was 91.1%
 - High risk recall was 89% while low risk recall was 94%.
 
