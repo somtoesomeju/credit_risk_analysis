@@ -9,6 +9,7 @@ The purpose of this project is to evaluate credit risk using machine learning. T
 
 ## Results
 # SMOTE SAMPLING
+![smote](https://github.com/somtoesomeju/credit_risk_analysis/blob/main/Resources/SMOTE_oversampling.png)
 In the SMOTE oversampling method, the balanced accuracy score was 62.3%.
 - high risk precision is at 1%, while low risk precision is at 100%
 - high risk recall is at 70%, while low risk recall is at 58%
